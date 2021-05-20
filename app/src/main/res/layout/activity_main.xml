@@ -13,7 +13,6 @@
         android:layout_height="wrap_content"
         android:hint="@string/cost_of_service"
         app:layout_constraintStart_toStartOf="parent"
-        android:inputType="numberDecimal"
         app:layout_constraintTop_toTopOf="parent">
 
         <com.google.android.material.textfield.TextInputEditText
